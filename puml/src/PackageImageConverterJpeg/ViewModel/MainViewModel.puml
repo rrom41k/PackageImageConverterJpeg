@@ -1,0 +1,12 @@
+@startuml
+class MainViewModel <<sealed>> {
+    +  <<event>> PropertyChanged : PropertyChangedEventHandler 
+}
+class "ObservableCollection`1"<T> {
+}
+INotifyPropertyChanged <|-- MainViewModel
+MainViewModel o-> "Photos<Photo>" "ObservableCollection`1"
+MainViewModel --> "AddPhotos" RelayCommand
+MainViewModel --> "ConvertPhotos" RelayCommand
+MainViewModel --> "DeletePhotos" RelayCommand
+@enduml

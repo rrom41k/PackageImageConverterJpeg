@@ -1,0 +1,5 @@
+@startuml
+class ConvertToJPEG <<static>> {
+    + {static} Convert(sourceImagePath:string, destinationImagePath:string, quality:int) : bool
+}
+@enduml

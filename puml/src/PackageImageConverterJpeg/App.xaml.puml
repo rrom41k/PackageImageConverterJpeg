@@ -1,0 +1,4 @@
+@startuml
+class App <<partial>> {
+}
+@enduml

@@ -1,0 +1,17 @@
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\bin\Debug\PackageImageConverterJpeg.exe.config
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\bin\Debug\PackageImageConverterJpeg.exe
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\bin\Debug\PackageImageConverterJpeg.pdb
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\PackageImageConverterJpeg.csproj.AssemblyReference.cache
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\PackageImageConverterJpeg.csproj.SuggestedBindingRedirects.cache
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\App.g.cs
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\PackageImageConverterJpeg_MarkupCompile.cache
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\PackageImageConverterJpeg_MarkupCompile.lref
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\PackageImageConverterJpeg.g.resources
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\PackageImageConverterJpeg.Properties.Resources.resources
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\PackageImageConverterJpeg.csproj.GenerateResource.cache
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\PackageImageConverterJpeg.csproj.CoreCompileInputs.cache
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\PackageImageConverterJpeg.exe
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\PackageImageConverterJpeg.pdb
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\View\MainWindow.g.cs
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Work\PackageImageConverterJpeg\PackageImageConverterJpeg\obj\Debug\View\MainWindow.baml

@@ -1,0 +1,7 @@
+@startuml
+!include .\\.\src\PackageImageConverterJpeg\App.xaml.puml
+!include .\\.\src\PackageImageConverterJpeg\ByteArrayToImageConverter.puml
+!include .\\.\src\PackageImageConverterJpeg\ConvertToJPEG.puml
+!include .\\.\src\PackageImageConverterJpeg\RelayCommand.puml
+!include .\\.\src\PackageImageConverterJpeg\ViewModel\MainViewModel.puml
+@enduml

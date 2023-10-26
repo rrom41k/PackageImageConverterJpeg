@@ -1,0 +1,8 @@
+@startuml
+class ByteArrayToImageConverter {
+    + Convert(value:object, targetType:Type, parameter:object, culture:CultureInfo) : object?
+    + ConvertBack(value:object, targetType:Type, parameter:object, culture:CultureInfo) : object?
+    + {static} CompressImage(imagePath:string, maxPixels:int) : byte[]
+}
+IValueConverter <|-- ByteArrayToImageConverter
+@enduml
